@@ -1,3 +1,133 @@
 body {
     background-color: #EAD8C1;
+    color: #363737;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 85%;
+border-radius: 10px;
+}
+a{
+    color: #1F0062;
+}
+
+a:hover{
+color: #0B78B3;
+text-decoration: none;
+}
+
+#container_rome {
+    background-color: #FDFBD4;
+    width: 60%;
+    margin: 20px auto;
+    border: 6px solid red;
+    padding: 20px;
+    border-radius: 45px;
+}
+
+header{
+text-align: center;
+padding: 40px;
+color:rebeccapurple;
+border-bottom: 2.5px solid #68150A;
+}
+h2 {
+    text-align: center;
+    padding: 10px;
+    color: rebeccapurple;
+}
+h3 {
+    text-align: center;
+    padding: 10px;
+    color: rebeccapurple;
+}
+
+nav {
+    text-align: center;
+    border-bottom: 2.5px solid #68150A;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0%;
+
+}
+
+nav li{
+display: inline-block;
+
+}
+
+nav li a{
+    display: block;
+    background-color: white;
+    color: red;
+width: 275 px;
+height: 45 px;
+line-height: 45 px;
+text-decoration: none;
+border-radius: 5px;
+border: 2.5px solid #68150A;
+}
+
+nav li a:hover {
+    color: red;
+    background-color: #0B78B3;
+}
+
+.multi_col {
+    display: flex;
+}
+section, aside{
+    border-radius: 15px;
+border: 5px solid darkblue;
+margin: 15px;
+padding: 20px;
+}
+section{
+    width: 75%;
+}
+aside {
+    width: 25%;
+}
+section img {
+    border-radius: 10px;
+    border:2px solid red;
+    width: 95%;
+}
+aside img{
+    border-radius: 10px;
+    border:2px solid red;
+    width: 85%;
+}
+footer {
+    padding: 40px 0;
+    text-align: center;
+
+}
+.img_style_rome{
+    width: 85%;
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5 px red;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.img_style_carthage{
+    width: 85%;
+    border: 2px solid #0B78B3;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5 px #0B78B3;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#container_carthage {
+    background-color: #FDFBD4;
+    width: 60%;
+    margin: 20px auto;
+    border: 6px solid darkblue;
+    padding: 20px;
+    border-radius: 45px;
 }
