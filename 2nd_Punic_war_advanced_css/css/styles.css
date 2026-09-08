@@ -64,9 +64,9 @@ nav li a{
     display: block;
     background-color: white;
     color: red;
-width: 275 px;
-height: 45 px;
-line-height: 45 px;
+width: 225px;
+height: 35px;
+line-height: 35px;
 text-decoration: none;
 border-radius: 5px;
 border: 2.5px solid #68150A;
@@ -111,7 +111,7 @@ footer {
     width: 85%;
     border: 2px solid red;
     border-radius: 10px;
-    box-shadow: 2px 2px 5 px red;
+    box-shadow: 2px 2px 5px red;
      margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -119,7 +119,7 @@ footer {
     width: 85%;
     border: 2px solid #0B78B3;
     border-radius: 10px;
-    box-shadow: 2px 2px 5 px #0B78B3;
+    box-shadow: 2px 2px 5px #0B78B3;
     margin-top: 5px;
     margin-bottom: 5px;
 }
