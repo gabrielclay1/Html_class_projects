@@ -1,8 +1,8 @@
 #container_Home {
-    background-color: #FDFBD4;
+    background-color: grey;
     width: 90%;
     margin: 20px auto;
-    border: 6px solid darkblue;
+    border: 6px solid rosybrown;
     padding: 20px;
     border-radius: 45px;
     
@@ -40,7 +40,7 @@
     
 }
 body {
-    background-color: #EAD8C1;
+    background-color: #CCBEB1;
     color: #363737;
       font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
@@ -100,7 +100,7 @@ a{
 }
 
 a:hover{
-color: #0B78B3;
+color: greenyellow;
 text-decoration: none;
 }
 nav {
@@ -152,8 +152,8 @@ footer {
 
 }
 nav li a:hover {
-    color: red;
-    background-color: #0B78B3;
+    color: gold;
+    background-color: rosybrown;
 }
 .multi_col{
     display: flex;
@@ -172,7 +172,7 @@ border-bottom: 2.5px solid black;
 h2 {
     text-align: center;
     padding: 10px;
-    color: rebeccapurple;
+    color: powderblue;
     font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
 
@@ -181,7 +181,7 @@ h2 {
 h3 {
     text-align: center;
     padding: 10px;
-    color: rebeccapurple;
+    color: powderblue;
     font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
 
