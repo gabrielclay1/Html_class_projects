@@ -196,8 +196,8 @@ display: block;
 }
 nav li a{
     display: block;
-    background-color: white;
-    color: red;
+    background-color: orange;
+    color: mediumslateblue;
 height: 22%;
 border-radius: 5px;
 border: 2.5px solid #68150A;
